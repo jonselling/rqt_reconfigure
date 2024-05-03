@@ -81,7 +81,6 @@ class EditorWidget(QWidget):
             return False
         return True
 
-
     def update_local(self, value):
         """
         To be implemented in subclass, but still used.
